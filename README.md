@@ -1,43 +1,41 @@
-# Hello, I am Gabriel Oliveira de Freitas
+# Hello, I am Gabriel Oliveira de Freitas  
 
-I'm a Computer Science student at UNIFOR and also a member of Infinity School in Fortaleza. My current focus is diving into the world of data science, where I'm looking to solidify my knowledge and skills.
+I'm a Computer Science student at UNIFOR and a Back-End Development with Java student at EBAC. My current focus is diving into software development, where I'm sharpening my coding skills and building robust solutions.  
 
-## About Me
+## About Me  
 
-- 📚 Computer Science student at UNIFOR
-- 💻 Student at Infinity School in Fortaleza
-- 🌱 Growing interest in Data Science
-- 👀 Exploring areas related to Data Science and beyond
+- 📚 Computer Science student at UNIFOR  
+- 💻 Back-End Development with Java student at EBAC  
+- 🌱 Growing my expertise in Java and system design  
+- 👀 Exploring backend frameworks, APIs, and DevOps  
 
-### Purpose of this Repository
+### Purpose of this Repository  
 
-This repository serves as an introduction to me and my interests. I'm at the beginning of my journey in web development and I'm excited to expand my knowledge in this area as well as explore adjacent fields.
+This repository serves as an introduction to my journey in tech. I'm passionate about backend development and eager to expand my knowledge in this field while collaborating on meaningful projects.  
 
-### Contact
+### Contact  
 
-- 📫 How to reach me: [gabrieloftas@outlook.com](mailto:gabrieloftas@outlook.com)
+- 📫 How to reach me: [gabrieloftas@outlook.com](mailto:gabrieloftas@outlook.com)  
+- ⚡ Let’s connect! Open to collaborations, internships, and coding challenges.  
 
-Feel free to give suggestions or share resources that might be helpful for my learning!
+---  
 
----
+# Olá, eu sou Gabriel Oliveira de Freitas  
 
-# Olá, eu sou Gabriel Oliveira de Freitas
+Sou estudante de Ciência da Computação na UNIFOR e aluno do curso de Back-End com Java na EBAC. Meu foco atual está no desenvolvimento de software, onde estou aprimorando minhas habilidades em programação e construindo soluções robustas.  
 
-Sou estudante de Ciência da Computação na UNIFOR e também faço parte da Infinity School em Fortaleza. Meu foco atual está em mergulhar no mundo da Ciência de Dados, onde estou buscando consolidar meus conhecimentos e habilidades.
+## Sobre Mim  
 
-## Sobre Mim
+- 📚 Estudante de Ciência da Computação na UNIFOR  
+- 💻 Aluno de Desenvolvimento Back-End com Java na EBAC  
+- 🌱 Aprofundando conhecimentos em Java e design de sistemas  
+- 👀 Explorando frameworks backend, APIs e DevOps  
 
-- 📚 Estudante de Ciência da Computação na UNIFOR
-- 💻 Aluno na Infinity School em Fortaleza
-- 🌱 Interesse crescente em Ciência de Dados
-- 👀 Explorando áreas relacionadas ao Ciência de Dados e além
+### Objetivo deste Repositório  
 
-### Objetivo deste Repositório
+Este repositório marca o início da minha jornada na tecnologia. Estou focado em desenvolvimento backend e animado para expandir meu conhecimento nessa área enquanto colaboro em projetos significativos.  
 
-Este repositório serve como uma apresentação sobre mim e meus interesses. Estou no início da minha jornada na Ciência de Dados e estou animado para expandir meu conhecimento nessa área, bem como explorar áreas adjacentes a ela.
+### Contato  
 
-### Contato
-
-- 📫 Como entrar em contato comigo: [gabrieloftas@outlook.com](mailto:gabrieloftas@outlook.com)
-
-Sinta-se à vontade para dar sugestões ou compartilhar recursos que possam ser úteis para meu aprendizado!
+- 📫 Como entrar em contato: [gabrieloftas@outlook.com](mailto:gabrieloftas@outlook.com)  
+- ⚡ Vamos conversar! Aberto a colaborações, estágios e desafios de código.  
